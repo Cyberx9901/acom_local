@@ -1,0 +1,60 @@
+                                                                                
+                                                                                
+       'lllc.             .ccllllcc.   .::cllcllllccccclllcccc.                 
+       lMMWNc             cNWMWWWWNc   :XXNMWWWMMMWWWWWWWWWWWWl                 
+       lMMWNc             cNWMMWWWWl   :XXNWWWMMMMMMMMWWWWWWWWl                 
+   .cccclllcccccc.   .ccllccclOWWWWOccccllllllllllllllllllOWWMl                 
+   cXXK:    cNNXXc   cNWWWl   cWWWMWWNXl                  cNWMl                 
+   cWNXc    lWWNNc   cNWMMl   cNNWMMWWNl                  cNWMl                 
+   lMWNc    lWWMMOccccclllcccccllllllll'    .:cllccccccc::clll'                 
+   lMWNc    cNWMMWWNX:    cXXXc             :0XMMNXXNNXXKKc                     
+   lMWNc    cWWMMWWWNc    cNNNl             :KNMMWNNNNNNNNl                     
+   lMWWc    lWWWWWWWWl    lMWWl             :KNMMMMWWWWWWWl                     
+   lMWNc    lMMMMOlllc:cccloll.    .;:cccc::cllllllllOWWWWl        .,:lc:::;.   
+   lMWNc    lMMMMl   cNNWWl        :0XWWWWNNl        cNWMMl        ;kKMWNNNXc   
+   lWWNc    lMMMMl   lWMMMo        :XNMMMMWWl        cXWMMl        ;OXMMMMWWl   
+   lMWWc    'llllc:cclllllccclccc::ccllllllc'    .:cllllll'   .::clc:clONNWWl   
+   lMWWc         cXNWl    :KNMWNNXKc             :0NMo        :KKNMo.  cXXNMl   
+   lMWNc         cNNWl    :KNMWWWNXl             :KNMo        :XXNMo.  cXXNMl   
+   lMWNc         cNWMl    cXNWWWWWWl             cXWMo        cXXWMo.  :XXNMl   
+   .llllllc:.    .cllc::ccccclOMMWWl   .;;clcc:::loll'    .:cllccllc:cllllll'   
+       lMMWXc        cXNWWl   lMMMMl   :KKNMWNNNNo.       cXWMl    ;OXMo..      
+       lMMWNc        lWWMMl   lMMMMl   cXXWMMMMMMo.       cNWMl    :0XWo..      
+   'llcllllcccllllcclOWWMMOlc:cllll'   .ccclOWWMMo   .ccllllll'    :0XMo..      
+   lMWNc    cWWMMWNWWWWWMMMMNXc             cNWMMo   cNNWWo.       :0NMo..      
+   lMWNc    cWWMMWWWWWWWWWWMNXc             cXWMMo   cNWMMo        ;0XMo..      
+   'llllllc:ccllllllllclllllcc.    .::c.    .:cllc:cllllll'   .;;clcccl'        
+       lWWNK:                      :0XNc         :0XMo        ;00XMd.           
+       oMMNXc                      :XNWl         :KNMo        :KKNMd.           
+       oMMWNc                      cNWMo         cXWMl        cXXWMd.           
+       'llllccc::.        .:clccccckNWMOcc::cccccllll'    .;clONNWMd.           
+            lNNNNl        :XNMWNNNNWWWWNXXXNNWWWWo.       :KNMMWWMMd.           
+            lWMMMl        cNWMMWWWWWWWWWWWWWWMMMMo        cNWMMWWMMd.           
+            lWMMMOlcclllccclllloolllccckNNWW0olllcccllcc::ccllllllllcll'        
+            lWWMMWNNNWMWNNl            cNNWMo    :0XMWNXKK:        :0NMo..      
+            lWWMMWWWWWMWNNl            cXXWMl    :KNMWWNNNc        :0NMo..      
+       'llccccllllllllllll'        .:clcccll'    .:clkNWMMOlcc.    .:clccccc.   
+       lWWNK:                      :KNMo             :KNMMWWNXc        :00XNc   
+       lMMWXc                      cXWMo             :KNMMWWWNl        :KKNWc   
+       oMMWNc                      cNWMo             :KNWWMMWWl        cXXWMl   
+   .cc:clllcccccc.   .:cllllc:.    .cllc::cc.        :XNMM0lllccccl'   cXXWMl   
+   cWNXc    cWWWWc   :XNMMMMNX:        :XXNWl        cNWMMl   cXXNMo   cXXNMl   
+   lMWWl    lWMMMl   cNNWWMMWNc        cNNWMl        cNWMMl   cNNWMo   cXXNMl   
+   lMWWl    lWMMMOllccllllllllccclllcccOWWWWl        cNWMMl   .cclllccllllll'   
+   lMWWc    lWWWWMMWWl        lNNWMWWWWWMMWWl        cNWWWl        :KNMo..      
+   lWWNc    lWWWWMMWWl        lNNWMWWWWWMMWWl        cXNWWo        :0XMo..      
+   cNNX:    lWWWWWWWWl        lNNWMMWWWWMMWWl        :KXWWo        ;0XMo        
+   .ccccccllOWWWWOllcccclllllccccllllllkNNWWOllllllllc:cccllll'    .:cllllll'   
+       lWWWMMMWWWc   cXNMMMMWXc        :KKNMWWWWWWWWWl    cNWMo        cXXNMl   
+       lWWWWMMWNNc   :XNMMMMWXc        :00NMMWWMMWWWWl    cNWMo        cXXNMl   
+       lWWWWOllcc.   cNWMMOllcccccc.   .::clONWWW0ool.    .clllcccl'   cXXNMl   
+       lWWWNc        cWWMMl   cXXXXc        cXNWWd.           :KKNMo   cXXNMl   
+       lMMWNc        cWWMMl   cNNNWl        cXNMMo.           cXXNMo.  cXXNMl   
+       lMMWWkccccccccOWWWWl   lWWWMOlccccccckWWMMo            .ccllc:clONNWWl   
+       lWWWWWNNNNNNNNWMMWWl   cNNWMWNNNNNNNNWMMMMo                 ;OXMMMMWWl   
+       lNNWWWWWWWWNWWWWNNNc   cNNNWWWWWWNNWWWWWWWo                 ;OXMMWWWNc   
+       cXXNNWWWWWWWWMWNXKK:   :XXNNWWWWWWWWMWNNNNl                 ;OXMWWWNK:   
+       .ccccccllllllllcc::.   .::cccllllccllccccc'                 .;:llccc:.   
+                                                                                
+                                                                                
+                                                                                

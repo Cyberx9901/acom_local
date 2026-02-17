@@ -1,0 +1,60 @@
+                                                                                
+                                                                                
+                     .llll'   'llllllll'    'llllllll.                          
+                     lMMMMl   lMMMMMMMMl    lMMMMMMMMl                          
+                     lMMMMl   lMMMMMMMMl    lMMMMMMMMl                          
+                 'lllOMMMMOllllllllOMMMOlllllllllOMMMl                          
+                 lMMMMMMMMMMMMl    lMMMMMMMMl    lMMMl                          
+                 lMMMMMMMMMMMMl    lMMMMMMMMl    lMMMl                          
+            'llllllllOMMMMMMMMOllllOMMMMMMMMl    lMMMl             'lll'        
+            lMMMMl   lMMMMMMMMMMMMMMMMMMMMMMl    lMMMl             lMMMl        
+            lMMMMl   lMMMMMMMMMMMMMMMMMMMMMMl    lMMMl             lMMMl        
+            lMMMMl   lMMMMMMMMMMMMMMMMMMMMMMl    lMMMl             lMMMl        
+       'llllOMMMMOlllOMMMMMMMMMMMMMMMMMOllll'    lMMMl        .llllOMMMl        
+       lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl         lMMMl        lMMMMMMMMl        
+       lMMMMMMMMMMMMMMWMMMMMMMMMMMMMMMMl         lMMMl        lMMMMMMMMl        
+       lMMMMMMMMMMMMMMMMMMOllllllllOMMMOlllllllllOMMMl    'llllllllOMMMl        
+       lMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl        
+       lMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl        
+       lMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl        
+       lMMMMOllllllllllllllllllllllOMMMOllllOMMMMOllllllllllll'    lMMMl        
+       lMMMMl             lMMMMMMMMMMMMl    lMMMMl   lMMMMl        lMMMl        
+       lMMMMl             lWMMMMMMMMMMMl    lMMMMl   lMMMMl        lMMMl        
+       lMMMMl        .llllOMMMOllllOMMMl    lMMMMl   lMMMMl        lMMMl        
+       lMMMMl        lMMMMMMMMl    lMMMl    lMMMMl   lMMMMl        lMMMl        
+       lMMMMl        lMMMMMMMMl    lMMMl    lMMMMl   lMMMMl        lMMMl        
+       lMMMMl        .llllllll.    lMMMOllll0MMMMOllllllll.        lMMMl        
+       lMMMMl                      lMMMMMMMMMMMMMMMMMl             lWMMl        
+       lMMMMl                      lMMMMMMMMMMMMMMMMMl             lMMMl        
+       lMMMMl                      lMMMMMMMMMMMMMMMMMl             lMMMl        
+       'lllllllll'                 lMMMOlllllllllOMMMl    'llllllllllll.        
+            lMMMMl                 lMMMl         lMMMl    lMMMMMMMMl            
+            lMMMMl                 lMMMl         lMMMl    lMMMMMMMMl            
+       'lllllllllllllllllllllllllllOMMMl         .lllllllllllllllll'            
+       lMMMMl    lMMMMMMMMMMMMMMMMMMMMMl             lMMMMl                     
+       lMMMMl    lMMMMMMMMMMMMMMMMMMMMMl             lMMMMl                     
+       lMMMMOllllOMMMOlllllllllllll0MMMOlllllllllllllOMMMMl                     
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMMMMMMMMMMl                     
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMMMMMMMMMMl                     
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMMMMMMMMMMl                     
+       'llllOMMMMMMMMOllll'   'llllOMMMMMMMMOllllOMMMOllllllll'                 
+            lMMMMMMMMMMMMMl   lMMMMMMMMMMMMMl    lMMMl    lMMMl                 
+            lMMMMMMMMMMMMMl   lMMMMMMMMMWWMMl    lMMMl    lWMMl                 
+       'lllllllllOMMMMMMMMOlllOMMMMMMMMOllll'    lMMMl    'llllllll'            
+       lMMMMl    lMMMMMMMMMMMMMMMMMMMMMl         lMMMl        lMMMMl            
+       lMMMMl    lMMMMMMMMMMMMMMMMMMMMMl         lMMMl        lMMMMl            
+       lMMMMl    lMMMMMMMMMMMMMMMMMMMMMl         lMMMl        lMMMMl            
+       'llllllllllllllllllOMMMOlllllllllllllllllllllllllll'   'llllllll'        
+            lMMMMl        lMMMl        lMMMMMMMMMl   lMMMMl        lMMMl        
+            lMMMMl        lMMMl        lMMMMMMMMMl   lMMMMl        lMMMl        
+       'lllllllll'   'lllllllllllll'   'llllOMMMMl   .lllllllllllllOMMMl        
+       lMMMMl        lMMMMl   lMMMMl        lMMMMl        lMMMMMMMMMMMMl        
+       lMMMMl        lMMMMl   lMMMMl        lMMMMl        lMMMMMMMMMMMMl        
+       lMMMMOlllllllllllll'   'lllllllllllllOMMMMl        .llllllllllll.        
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMl                              
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMl                              
+       lMMMMMMMMMMMMMl             lMMMMMMMMMMMMMl                              
+       'lllllllllllll'             'lllllllllllll'                              
+                                                                                
+                                                                                
+                                                                                
