@@ -1,0 +1,63 @@
+Metal Greymon X
+                                                                                
+                                                                                
+       'lllllllll'        'llllllllllllllllllllll'   .llllllll'        'llll'   
+       lMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMl   lMMMMMMMMl        lMMMMl   
+       lMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMl   lMMMMMMMMl        lMMMMl   
+   'llllllllOMMMMOllllllllllllllllllllllllllOMMMMOllllllllOMMMl        lMMMMl   
+   lMMMl    lMMMMMMMMMMMMMl                 lMMMMMMMMl    lMMMl        lMMMMl   
+   lMMMl    lMMMMMMMMMMMMMl                 lMMMMMMMMl    lMMMl        lMMMMl   
+   lMMMl    lMMMMOlllllllllllllllll'   'lllllllllllll'    lMMMl    'lllOMMMMl   
+   lMMMl    lMMMMl        lMMMMMMMMl   lMMMMl             lMMMl    lMMMMMMMMl   
+   lMMMl    lMMMMl        lMMMMMMMMl   lMMMMl             lMMMl    lMMMMMMMMl   
+   lMMMl    lMMMMl        lMMMMMMMMl   lMMMMl             lMMMl    lMMMMMMMMl   
+   lMMMOlllllllll.   .llllOMMMOllll.   lMMMMOlllllllllllllllll'    lMMMMMMMMl   
+   lMMMMMMMMl        lMMMMMMMMl        lMMMMMMMMMMMMMMMMMMl        lMMMMMMMMl   
+   lMMMMMMMMl        lMMMMMMMMl        lMMMMMMMMMMMMMMMMMMl        lMMMMMMMMl   
+   lMMMOllll'        .llllllll.        'lllllllllOMMMMMMMMl   'llllOMMMOllll'   
+   lMMMl                                         lMMMMMMMMl   lMMMMMMMMl        
+   lMMMl                                         lMMMMMMMMl   lMMMMMMMMl        
+   lMMMl                                         lMMMMMMMMl   lMMMMMMMMl        
+   lMMMl    'llllllllllllllllllllll'   'lllllllllllllOMMMMl   lMMMMOllllllll'   
+   lMMMl    lMMMMMMMMMMMMMMMMMMMMMMl   lMMMMMMMMMl   lMMMMl   lMMMMl   lMMMMl   
+   lMMMl    lMMMMMMMMMMMMMMMMMMMMMMl   lMMMMMMMMMl   lMMMMl   lMMMMl   lMMMMl   
+   'lllllllllllllllllllllllllllllllllllllllllllll'   'lllllllllllllllllOMMMMl   
+       lMMMMl                      lMMMl                  lMMMl    lMMMMMMMMl   
+       lMMMMl                      lMMMl                  lMMMl    lMMMMMMMMl   
+       .llllllllllllllllllllll'    .lll.             .llllOMMMl    lMMMOllll'   
+            lMMMMMMMMMMMMMMMMMl                      lMMMMMMMMl    lMMMl        
+            lMMMMMMMMMMMMMMMMMl                      lMMMMMMMMl    lMMMl        
+            lMMMMMMMMMMMMMMMMMl                      lMMMMMMMMl    lMMMl        
+            'llllllll0MMMMMMMMOllllllllllllllllllllllllllllllllllllllll.        
+                     lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        lMMMMl            
+                     lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        lMMMMl            
+            'lllllllllllllllllOMMMMOllllllllOMMMMMMMMl        lMMMMOlll'        
+            lMMMMMMMMl        lMMMMl        lMMMMMMMMl        lMMMMMMMMl        
+            lMMMMMMMMl        lMMMMl        lMMMMMMMMl        lMMMMMMMMl        
+       .lllllllllOMMMOllll'   lMMMMl   'lllllllllllll'        lMMMMMMMMOllll'   
+       lMMMMl    lMMMMMMMMl   lMMMMl   lMMMMl                 lWWMMMMMMMMMMMl   
+       lMMMMl    lMMMMMMMMl   lMMMMl   lMMMMl                 lMMMMMMMMMMMMMl   
+       lMMMMl    lMMMMMMMMl   lMMMMl   lMMMMl                 lMMMMMMMMMMMMMl   
+       lMMMMl    lMMMOllllllllOMMMMOlllOMMMMl    'lll.    'lllOMMMMOlllOMMMMl   
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMMMMMMl   lMMMMl   
+       lMMMMl    lMMMl    lWMMMMMMMMMMMMMMMMl    lMMMl    lMMMMMMMMl   lMMMMl   
+       .lllllllllOMMMl    .llllllllllll0MMMMOllllOMMMOllllllllOMMMMl   lMMMMl   
+            lMMMMMMMMl                 lMMMMMMMMMMMMMMMMMMl   lMMMMl   lMMMMl   
+            lMMMMMMMMl                 lMMMMMMMMMMMMMMMMMMl   lMMMMl   lMMMMl   
+            lMMMMMMMWl                 lMMMMMMMMMMMMMMMMMMl   lMMMMl   lMMMMl   
+       'llllOMMMMOllllllll'            'llllOMMMMOllllllll'   lMMMMl   'llll'   
+       lMMMMMMMMMl   lMMMMl                 lMMMMl            lMMMMl            
+       lMMMMMMMMMl   lMMMMl                 lMMMMl            lMMMMl            
+   .llllllllOMMMMl   .lllllllllllllllllllllllllllllll'    'llllllllllll'        
+   lMMMl    lMMMMl        lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl    lMMMl        
+   lMMMl    lMMMMl        lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl    lMMMl        
+   lMMMOllllOMMMMOllllllllOMMMOllllllllOMMMMOllllOMMM0llllOMMMOllll0MMMl        
+   lMMMMMMMMMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        
+   lMMMMMMMMMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        
+   lMMMMMMMMMMMMMMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        
+   'llllllllllllllllllllllllll'        'lllllllllllllllllllllllllllllll.        
+                                                                                
+                                                                                
+                                                                                
+
+Code: V2-2B0E-650E-0D0E-2ACE-198E-51FE
