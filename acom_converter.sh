@@ -82,6 +82,7 @@ main() {
 
 	local name code ascii file usable_code
 	name=$(get_digimon_name)
+	cat readme.txt 
 	code=$(get_code)
 	ascii=$(get_ascii_file)
 
