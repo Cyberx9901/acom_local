@@ -1,0 +1,63 @@
+Diablomon X
+                                                                                
+                                                                                
+                     'llllllllllllllllllllll'    'llllllll'                     
+                     lMMMMMMMMMMMMMMMMMMMMMMl    lMMMMMMMMl                     
+                     lMMMMMMMMMMMMMMMMMMMMMMl    lMMMMMMMMl                     
+            'llllllllOMMMMMMMMMMMMMMMMMMMMMMOllllllllOMMMMl                     
+            lMMMMMMMMMMMWWMMMMMMMMMMMMWMMMMMMMMMMl   lMMMMl                     
+            lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl   lMMMMl                     
+            lMMMMMMMMMMMMMOlllOMMMMMMMMOlllllllll'   lMMMMl                     
+            lMMMMMMMMMMMMMl   lMMMMMMMMl             lMMMMl                     
+            lMMMMMMMMMMMMMl   lMMMMMMMMl             lMMMMl                     
+            lMMMMMMMMMMMMMl   lMMMMMMMMl             lMMMMl                     
+       'llllOMMMMMMMMOllll'   lMMMMMMMMOlllllllllllllOMMMMOllllllllllll.        
+       lMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl        lMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl    'lllOMMMMMMMMMMMMMOllllOMMMMMMMMMMMMOllllOMMMOllll'   
+       lMMMMMMMMMMMMMl    lMMMMMMMMMMMMMMMMMl    lMMMMMMMMMMMMl    lMMMMMMMMl   
+       lMMMMMMMMMMMMMl    lMMMMMMMMMMMMMMMMMl    lMMMMMMMMMMMMl    lMMMMMMMMl   
+       lMMMMMMMMMMMMMl    lMMMMMMMMMMMMMMMMMl    lMMMMMMMMMMMMl    lMMMMMMMMl   
+       lMMMMMMMMMMMMMOllllOMMMMMMMMOlllOMMMMl    lMMMOlllllllllllllOMMMMMMMMl   
+       lMMMMMMMMMMMMMMMMMMMMMMMMMMMl   lMMMMl    lMMMl        lMMMMMMMMMMMMMl   
+       lMMMMMMMMMMMMMMMMMMMMMMMMMMMl   lWWMMl    lMMMl        lMMMMMMMMMMMMMl   
+       .llllOMMMMMMMMMMMMMOllllllllllllOMMMMl    lMMM0llllllllOMMMMMMMMOllll'   
+            lMMMMMMMMMMMWWl        lMMMMMMMMl    lMMMMMMMMMMMMMMMMMMMMMl        
+            lMMMMMMMMMMMMMl        lMMMMMMMMl    lMMMMMMMMMMMMMMMMMMMMMl        
+            'llllOMMMOllll.   'llllOMMMOlllllllllOMMMMMMMMMMMMMMMMMOlll.        
+                 lMMMl        lMMMMMMMMl    lMMMMMMMMMMMMMMMMMMMMMMl            
+                 lMMMl        lMMMMMMMMl    lMMMMMMMMMMMMMMMMMMMMMMl            
+                 lMMMl        lMMMMMMMMl    lMMMMMMMMMMMMMMMMMMMMMMl            
+            'lllllllllllllllllllllllllllllllOMMMMMMMMMMMMMOlllOMMMMl            
+            lMMMMl   lMMMMMMMMl        lMMMMMMMMMMMMMMMMMMl   lMMMMl            
+            lMMMMl   lMMWWMMMMl        lMMMMMMMMMMMMMMMMMMl   lMMMMl            
+       'llllllllllllllllllOMMMOllllllllOMMMMMMMMMMMMMOlllllllllllllllll.        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMM0llllOMMMl    lMMMl    lMMMl        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl    lMMMl        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl    lMMMl        
+       lMMMMl    lMMMl    lMMMMMMMMMMMMMMMMMl    lMMMl    lMMMl    lMMMl        
+       lMMMMOllll0MMMl    lMMM0llllOMMM0llll.    lMMMl    lMMMOllllOMMMl        
+       lMMMMMMMMMMMMMl    lMMMl    lMMMl         lMMMl    lMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl    lMMMl    lMMWl         lMMMl    lMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl    'llllllllOMMMl    .llllllll.    lMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl        lMMMMMMMMl    lMMMMl        lMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl        lMMMMMMMMl    lMMMMl        lMMMMMMMMMMMMl        
+       lMMMMMMMMMMMMMl        lMMMMMMMMl    lMMMMl        lMMMMMMMMMMMMl        
+       lMMMMOllll0MMMl        .llllOMMMOllllOMMMMl        lMMMOllllOMMMl        
+       lMMMMl    lMMMl             lMMMMMMMMMMMMMl        lMMMl    lMMMl        
+       lMMMMl    lMMMl             lMMMMMMMMMMMMMl        lMMMl    lMMMl        
+       lMMMMOlllllllllllll'   'lllllllllllllOMMMMl   'lllllllllllllllll.        
+       lMMMMMMMMMl   lMMMMl   lMMMMl        lMMMMl   lMMMMl   lMMMMl            
+       lMMMMMMMMMl   lMMMMl   lMMMMl        lMMMMl   lMMMMl   lMMMMl            
+       'llllOMMMMOlllOMMMMl   lMMMMOlllllllllllll'   lMMMMOllllllll.            
+            lMMMMMMMMMMMMMl   lMMMMMMMMMMMMMl        lMMMMMMMMl                 
+            lMMMMMMMMMMMMMl   lMMMMMMMMMMMMMl        lMMMMMMMMl                 
+            lMMMMMMMMMMMMMl   lMMMMMMMMMMMMMl        lMMMMMMMMl                 
+            'lllllllllllll.   'lllllllllllll'        'llllllll'                 
+                                                                                
+                                                                                
+                                                                                
+
+Code: V2-030E-A9FE-AE9E-291E-0DCE-91FE
